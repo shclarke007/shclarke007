@@ -7,8 +7,12 @@ My name is **Shaneil** and I'm a **Software Engineer** working at **Cutover**.
 ### Technologies Used  
 ![](https://img.shields.io/badge/OS-OSX-blue) 
 ![](https://img.shields.io/badge/Tools-Ruby_on_Rails-red)
-![](https://img.shields.io/badge/Tools-React-yellow)
-![](https://img.shields.io/badge/Tools-Angular-yellow)  
+![](https://img.shields.io/badge/Tools-React-gold)
+![](https://img.shields.io/badge/Tools-Angular-gold)
+![](https://img.shields.io/badge/Tools-Vue-green)
+![](https://img.shields.io/badge/Tools-RSpec-orange)
+![](https://img.shields.io/badge/Tools-Cypress-orange)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shclarke007&layout=compact)](https://github.com/shclarke007/github-readme-stats)  
 
 ### Personal Projects
