@@ -10,7 +10,7 @@ My name is **Shaneil** and I'm a **Software Engineer** working at **Cutover**.
 ![](https://img.shields.io/badge/Tools-Ruby_on_Rails-red)
 ![](https://img.shields.io/badge/Tools-React-gold)
 ![](https://img.shields.io/badge/Tools-Angular-gold)
-![](https://img.shields.io/badge/Tools-Vue-green)
+![](https://img.shields.io/badge/Tools-Vue-gold)
 ![](https://img.shields.io/badge/Tools-RSpec-orange)
 ![](https://img.shields.io/badge/Tools-Cypress-orange)
 ![](https://img.shields.io/badge/Tools-AWS-blueviolet)  
