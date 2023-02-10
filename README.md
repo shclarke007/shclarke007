@@ -19,8 +19,8 @@ My name is **Shaneil** and I'm a **Software Engineer** working at **Cutover**.
 
 ### Personal Projects
 [![Ecoshop App Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=eco_shop_api)](https://github.com/shclarke007/eco_shop_api)
-[![Ruby App Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=airport_challenge)](https://github.com/shclarke007/airport_challenge)
 [![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=clarkesh)](https://github.com/shclarke007/clarkesh)
+[![Ruby App Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=airport_challenge)](https://github.com/shclarke007/airport_challenge)
 [![Memory Game Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=memory-game-js)](https://github.com/shclarke007/memory-game-js)
 [![Alexa App Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=alexa_node_js_quiz)](https://github.com/shclarke007/alexa_node_js_quiz)
 [![React App Card](https://github-readme-stats.vercel.app/api/pin/?username=shclarke007&repo=ravenous-react-app)](https://github.com/shclarke007/ravenous-react-app)
