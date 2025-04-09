@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Shaneil** and I'm a **Software Engineer** studying a MA Law postgraduate. 
+My name is **Shaneil** and I'm a **Technology Professional** studying a MA Law postgraduate to better understand the regulations that govern the technology innovations we all love so much. 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shclarke007&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/shclarke007/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shclarke007&layout=compact)]() 
