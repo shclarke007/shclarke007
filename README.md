@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Shaneil** and I'm a **Technology Professional** with experience as a software engineer and **MA Law postgraduate** that places me right at the intersection of technology regulatory reasoning. I currently build and configure internal tools, document automated systems. Instead of writing code for SaaS, I create workflows to resolve 1st line suport issues. 
+My name is **Shaneil** and I'm a **Technology Professional** with experience as a software engineer and **MA Law postgraduate** that places me right at the intersection of technology regulatory reasoning. I currently build and configure internal tools, document automated systems. Instead of writing code for standard SaaS, I now create workflows for internal systems to automate checks and processes.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shclarke007&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/shclarke007/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shclarke007&layout=compact)]() 
