@@ -5,9 +5,9 @@ My name is **Shaneil** and I'm a **Technology Professional** with experience as 
 ### Technologies Stack  
 ![](https://img.shields.io/badge/OS-OSX-blue) 
 ![](https://img.shields.io/badge/Tools-Ruby_on_Rails-red)
-![](https://img.shields.io/badge/Tools-React-gold)
-![](https://img.shields.io/badge/Tools-Angular-gold)
-![](https://img.shields.io/badge/Tools-Vue-gold)
+![](https://img.shields.io/badge/Tools-Ruby-red)
+![](https://img.shields.io/badge/Tools-Workato-blue)
+![](https://img.shields.io/badge/Tools-Claude-blue)
 ![](https://img.shields.io/badge/Tools-RSpec-orange)
 ![](https://img.shields.io/badge/Tools-Cypress-orange)
 ![](https://img.shields.io/badge/Tools-AWS-blueviolet)  
